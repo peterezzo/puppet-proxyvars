@@ -1,0 +1,18 @@
+{
+  "name": "peterezzo-proxyvars",
+  "version": "0.0.1",
+  "summary": "Puppet module for *nix proxy environmental variables",
+  "author": "Pete Ezzo",
+  "description": "This module sets several variables to enable CLI proxy, optionally configuring apt and sudo",
+  "dependencies": [
+
+  ],
+  "checksums": {
+
+  },
+  "operatingsystem_support": [
+
+   ],
+  "source": "https://github.com/peterezzo/lab-puppet",
+  "license": "None"
+}
